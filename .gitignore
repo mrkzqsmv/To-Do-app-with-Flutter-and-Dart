@@ -1,4 +1,5 @@
 # Miscellaneous
+static/* linguist-vendored
 *.class
 *.log
 *.pyc
